@@ -17,7 +17,7 @@ Creation of model: I was able to create a model using keras and sci-kit learn in
 
 Next Steps: It is already working quite a bit! But, something that would strengthen our model is to train it on even more data with more emotion/sentiment labels. This would lead to a more robust model that consists of numerous words.
 
-### Main coder/team leader - Navdeep Maini
+Main coder/team leader - **Navdeep Maini**
 
 Linguistics expert - Xihao Luo
 
