@@ -1,5 +1,4 @@
-emoman
-
+# emoman
 am emo
 
 Hey everyone! I'm Navdeep, and I hope you all are doing well! In my life, I have noticed some people have hard times reading emotions in all sorts of places. Some have a hard time with reading body language, and some have a hard time reading language in texts. This project is meant to solve the latter of the two, since facial recognition is much more of a reality than it seems alternative resources. It seems like there is not enough research on text-based emotions, weirdly enough.
