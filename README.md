@@ -5,6 +5,8 @@ Hey everyone! I'm Navdeep, and I hope you all are doing well! In my life, I have
 
 I know that some students with autism have a hard time expressing emotions and/or detecting them. This project can help those students slowly condition themselves to understand what "standard responses" to certain emotions can be or look like.
 
+### Running the model
+
 To run this, you will first need to download all of the files. Then, run this command: python3 restServer.py. Now, you can open the superIndex.html file in a browser of your choice (Chromeftw) and test it out :)
 
 Thanks for checking this out :)
