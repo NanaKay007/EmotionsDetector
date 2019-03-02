@@ -9,7 +9,7 @@ To run this, you will first need to download all of the files. Then, run this co
 
 Thanks for checking this out :)
 
-More information:
+### More information:
 
 List of emotions: worry (9438) neutral (7978) happiness (5860) sadness (5841) love (3734) surprise (2134) fun (1749) relief (1489) hate (1300) anger (947) empty (758) enthusiasm (737) boredom (177)
 
@@ -17,7 +17,7 @@ Creation of model: I was able to create a model using keras and sci-kit learn in
 
 Next Steps: It is already working quite a bit! But, something that would strengthen our model is to train it on even more data with more emotion/sentiment labels. This would lead to a more robust model that consists of numerous words.
 
-Main coder/team leader - Navdeep Maini
+### Main coder/team leader - Navdeep Maini
 
 Linguistics expert - Xihao Luo
 
